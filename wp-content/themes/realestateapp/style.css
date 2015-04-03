@@ -3,3 +3,15 @@ Theme Name: Real Estate App
 Author: Ed Solis
 Author URI: https://github.com/edsfocci
 */
+
+html {
+  margin-top: 100px !important;
+}
+
+#wpadminbar {
+  height: 100px !important;
+}
+
+.description {
+  color: red;
+}
